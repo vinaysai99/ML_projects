@@ -1,2 +1,3 @@
 # ML_projects
-Learning ML using practical datasets and knowledge
+Learning ML using practical data sets and knowledge
+Target 100 datasets
